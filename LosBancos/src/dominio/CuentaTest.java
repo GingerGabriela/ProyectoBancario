@@ -8,6 +8,7 @@ class CuentaTest {
 
 	@Test
 	void testIngresarDouble() {
+		//pendiente completar
 		fail("Not yet implemented");
 	}
 
